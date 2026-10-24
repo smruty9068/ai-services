@@ -1,0 +1,10 @@
+request_id,service_id,customer_name,email,phone,quoted_fee,discount_pct,request_date
+4101,21,Home Wi-Fi Setup,customer1@example.com,9000011001,1200,10,2026-09-11
+4102,22,Laptop Repair,,9000011002,2500,5,2026-09-12
+4103,23,Data Backup,customer3@example.com,9000011003,1800,0,2026-09-13
+4104,24,Printer Setup,customer4@example.com,9000011004,900,10,2026-09-14
+4105,21,Home Wi-Fi Setup,customer5@example.com,9000011005,1400,15,2026-09-15
+4106,25,Cybersecurity Check,customer6@example.com,9000011006,3200,5,2026-09-16
+4107,22,Laptop Repair,customer7@example.com,9000011007,2300,0,2026-09-17
+4103,23,Data Backup Duplicate,duplicate@example.com,9000011099,1900,0,2026-09-18
+4108,88,Unknown Service,customer8@example.com,9000011008,700,0,2026-09-19
