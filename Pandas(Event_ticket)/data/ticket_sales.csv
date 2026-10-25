@@ -1,0 +1,8 @@
+sale_id,event_id,buyer_name,buyer_email,tickets,ticket_price,discount_pct,sale_date
+5001,301,Asha Rao,asha@example.com,2,1500,10,2026-10-01
+5002,302,Ravi Sen,ravi@example.com,1,2200,0,2026-10-02
+5003,303,Mina Das,mina@example.com,3,900,5,2026-10-03
+5004,301,Kabir Roy,kabir@example.com,1,1500,0,2026-10-04
+5005,302,Tara Jain,tara@example.com,2,2200,10,2026-10-05
+5002,302,Ravi Sen,ravi2@example.com,4,2200,0,2026-10-06
+5006,999,Neel Shah,neel@example.com,1,700,0,2026-10-07
